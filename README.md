@@ -1,1 +1,1 @@
-# Entropy Financial Group LLC Website\n\nThis is the live website for Entropy Financial Group LLC, deployed on Netlify.\n\nLast updated: 05:41 PM EDT, May 14, 2025\n\nIncreased mobile navigation tab spacing to 120px with even distribution, retained desktop spacing at 30px.
+# Entropy Financial Group LLC Website\n\nThis is the live website for Entropy Financial Group LLC, deployed on Netlify.\n\nLast updated: 05:48 PM EDT, May 14, 2025\n\nReverted mobile navigation tab spacing to 30px, retained desktop spacing at 30px.
