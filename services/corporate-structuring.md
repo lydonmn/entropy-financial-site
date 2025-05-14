@@ -1,1 +1,0 @@
----\ntitle: Corporate Structuring\ncurrent_description: Maximize tax efficiency and scalability with a tailored business structure designed for growth.\nupdated_description: Our seasoned teams can provide guidance with entity structuring to manage risk, tax liability and succession planning.\n---

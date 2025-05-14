@@ -1,1 +1,0 @@
----\ntitle: Mergers & Acquisitions\ncurrent_description: Achieve seamless M&A transactions with expert guidance through due diligence and integration.\nupdated_description: M&A can be challenging, especially for new buyers and sellers. Our teams have the experience to guide investors and leadership through deals of all sizes across a breadth of industries.\n---
