@@ -1,1 +1,1 @@
-# Entropy Financial Group LLC Website\n\nThis is the website for Entropy Financial Group LLC, deployed on Netlify.\n\nLast updated: 03:21 PM EDT, May 14, 2025\n\nPlugins removed to fix deployment issues.
+# Entropy Financial Group LLC Website\n\nThis is the website for Entropy Financial Group LLC, deployed on Netlify.\n\nLast updated: 03:24 PM EDT, May 14, 2025\n\nPlugins removed and deploy directory fixed.
