@@ -1,3 +1,1 @@
-[build]
-  command = "npm run build"
-  publish = "dist"
+[build]\n  publish = "."\n  command = ""\n\n[[redirects]]\n  from = "/*"\n  to = "/index.html"\n  status = 200\n\n[context.production]\n  [context.production.forms]\n    detection = true
