@@ -1,1 +1,1 @@
-# Entropy Financial Group LLC Website\n\nThis is the live website for Entropy Financial Group LLC, deployed on Netlify.\n\nLast updated: 04:12 PM EDT, May 14, 2025\n\nEnsured header is McKinsey-inspired royal blue, maintained Pay 2500 button functionality.
+# Entropy Financial Group LLC Website\n\nThis is the live website for Entropy Financial Group LLC, deployed on Netlify.\n\nLast updated: 04:28 PM EDT, May 14, 2025\n\nUpdated transaction button to 'Generate Invoice and Pay' and centered Schedule a Consultation section.
