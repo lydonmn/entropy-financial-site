@@ -1,1 +1,1 @@
-# Entropy Financial Group LLC Website (Test V7)\n\nThis is a test version of the website for Entropy Financial Group LLC, styled like McKinsey & Company, deployed on Netlify.\n\nLast updated: 03:45 PM EDT, May 14, 2025\n\nStyled in McKinsey's design, fixed Pay 2500 button.
+# Entropy Financial Group LLC Website (Test V7)\n\nThis is a test version of the website for Entropy Financial Group LLC, styled like McKinsey & Company, deployed on Netlify.\n\nLast updated: 03:55 PM EDT, May 14, 2025\n\nChanged header to light blue, ensured Pay 2500 button is functional.
